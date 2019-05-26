@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>EPP, IIT Kanpur</title>
+    <link rel="stylesheet" href="style.css">    
+<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/AA8301E3-B918-9444-BBDE-49211C5CB99F/main.js" charset="UTF-8"></script></head>
+
+<body>
+    <!--
+    <table id="head-table">
+        <tr>
+            <td> Batch: </td>
+            <td> <input type="text"> </td>
+            <td> Code: </td>
+            <td> <input type="text"> </td>
+        </tr>
+    </table>
+-->
+    <h1>TOEFL (March 2019)</h1>
+    <h2> English Proficiency Programme, IIT Kanpur </h2>
+
+    <form id="myForm" autocomplete="off">
+        <div class="qblock">
+            <p>
+                Please enter your course roll number here <input name="fname" type="text" value="">
+            </p>
+        </div>
+        
+        <div class='qblock'>
+            <p>
+                <strong> Q.1. Fill in the blanks to complete the passage with appropriate words from the supplied list.
+                    (10)
+                </strong>
+            </p>
+
+            <p>
+                <strong> WORD LIST: </strong> appeal, cumbersome, dissect, embed, exposition, laymen, metaphors,
+                novelty,
+                refrain, rudimentary
+            </p>
+
+            <p>
+                When you present your subject to specialists, you assume them to possess a <input name="q1-0"
+                    class="answers" type="text" value=""> background of the ideas and jargon of the field. Not only
+                that, you do not
+                hesitate to
+                <input name="q1-1" class="answers" type="text" value=""> even intricate issues with them. To such an
+                audience,
+                you
+                mainly strive to demonstrate those specific points which are your own <input name="q1-2" class="answers"
+                    type="text" value="">, and you try to <input name="q1-3" class="answers" type="text" value=""> these
+                points in
+                their existing knowledge of the subject.
+
+                The strategy as well as the tone changes when you make an <input name="q1-4" class="answers" type="text"
+                    value="">
+                of the topic to a general audience. You must then plan your presentation in terms of generally sensible
+                ideas
+                that can <input name="q1-5" class="answers" type="text" value=""> to educated <input name="q1-6"
+                    class="answers" type="text" value="">. First, you concentrate on the broad issues and <input
+                    name="q1-7" class="answers" type="text" value=""> from descending into the <input name="q1-8"
+                    class="answers" type="text" value="">
+                nitty-gritty. Besides, for relatively tricky points, you look for suitable <input name="q1-9"
+                    class="answers" type="text" value=""> to drive your point home. While you do all these, your
+                treatment of the subject
+                must
+                still be technically correct.
+            </p>
+        </div>
+
+        <div class='qblock'>
+            <p>
+                <strong>Q.2 Complete the following sentences with appropriate words as illustrated. (10) </strong>
+            </p>
+            <p>
+                <strong>Example: </strong> I have a more or less close enough number. I think it is a good <input
+                    name="q2-demo" class="answers" type="text" value="" placeholder="e______e">. (estimate)
+            </p>
+
+            <ol>
+                <li>
+                    This is the last town before we enter the desert stretch. So, let us <input name="q2-0"
+                        class="answers" type="text" value="" placeholder="r______h"> our stock of essential things for
+                    the way.
+                </li>
+
+                <li>
+                    I advised him to replace a particular word in his essay because it has an undesirable <input
+                        name="q2-1" class="answers" type="text" value="" placeholder="c______n">in the context.
+                </li>
+
+                <li>
+                    How can you demand such a favor before establishing a proper <input name="q2-2" class="answers"
+                        type="text" value="" placeholder="a______e"> with him?
+                </li>
+
+                <li>
+                    I expect you to support me in this <input name="q2-3" class="answers" type="text" value=""
+                        placeholder="e______r"> of mine.
+                </li>
+
+                <li>
+                    You will be able to manage the day with a light lunch, or even in the contingency of no lunch at
+                    all, if
+                    you start the day with a <input name="q2-4" class="answers" type="text" value=""
+                        placeholder="s______l">
+                    breakfast.
+                </li>
+
+                <li>
+                    Do not try to just <input name="q2-5" class="answers" type="text" value="" placeholder="r______e">
+                    your
+                    dialogues word by word. First, try to appreciate their sense.
+                </li>
+
+                <li>
+                    By introducing me to others in the part in such a <input name="q2-6" class="answers" type="text"
+                        value="" placeholder="c______s"> manner, the hostess foiled my intention to keep a low profile
+                    and slip out
+                    early unnoticed.
+                </li>
+
+                <li>
+                    The mental state of the patient is quite precarious. Please do not <input name="q2-7" class="answers"
+                        type="text" value="" placeholder="p______b"> it by discussing her past sentimental attachments
+                    in
+                    front of her.
+                </li>
+
+                <li>
+                    While my friends are around, let me <input name="q2-8" class="answers" type="text" value=""
+                        placeholder="r______h"> their company, and afterwards I can <input name="q2-9" class="answers"
+                        type="text" value="" placeholder="c______h"> the memory.
+                </li>
+
+            </ol>
+        </div>
+
+        <div class="qblock">
+            <p>
+                <strong>
+                    Q3. Edit the passage given below by supplying appropriate forms of appropriate verbs below.  (20)
+                </strong>
+            </p>
+
+            <p>
+                The principal to our class once in a while and a discussion on some issue. Once he 'parents personal
+                freedom to their children' as the issue. Many of us their happy state of a lot of freedom by parents and
+                gratitude for that. Shubhendu, who an exceptionally sharp attitude, suddenly, "I complete personal freedom at
+                home, but for that I no gratitude towards anybody", thus all present. After a pause, he, "Freedom my right,
+                nobody it to me. I proud of my parents who never any intention of it".
+            </p>
+
+            <textarea name='q3' cols=80 rows=6
+                placeholder="Enter revised passage here ...">  </textarea>
+            </textarea>
+
+        </div>
+
+        <div class='qblock'>
+            <p>
+                <strong>
+                    Q4. Identify mistakes in the passage below and enter the corrected version in the box below it (20)
+                </strong>
+            </p>
+
+            <p>
+                "Forgive and forget" is saying used to lightly by people, often when the parties concerned can neither
+                forgive or forget. The question of forgiving arise only when one has the authority to punish, not just
+                an option to retaliate. A conscious decision to not retaliate against an offence is not forgiving. It can
+                be drove by a recognition of the inability to retaliate. In some cases, there may strategic or tactical
+                reason, including the quest for common sustained good. Commendable, yes, but it is not same as forgiving. In
+                situations when you think of forgiving an offence recognising it as cause by over sight or ignorance,
+                you basically do not take offence due that reason, and there is no question of punishing or forgiving. And,
+                then is forgetting voluntary. You cannot decide to loose your memory!
+            </p>
+
+            <textarea name='q4' cols=80 rows=6
+                placeholder="Enter revised passage here ..."> </textarea>
+        </div>
+
+        <p>
+            Please review your responses to all questions. Once you are satisfied with them, press the 'Submit' button
+            below to submit them. You may submit responses at any time. Only your final submission will be evaluated.
+        </p>     
+    </form>
+
+    <button onclick="sendData()"> Submit </button>
+
+
+</body>
+
+<script type='text/javascript' src='epp-exam.js'></script>
+
+</html>
